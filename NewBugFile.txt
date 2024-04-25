@@ -1,1 +1,3 @@
 This entire file is to be reverted when the bug changes get reverted. 
+
+Added a new change to the Bug Fix
